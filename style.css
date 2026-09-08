@@ -1,0 +1,87 @@
+.first-paragraph{
+  font-family: Times, "Times New Roman", serif;
+  color:gold;
+}
+.second_paragraph{
+  font-family: t;
+}
+.third_class{
+  font-family: Times, "Times New Roman", serif;
+  background-image: url("https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=1000&auto=format&fit=crop");
+  background-size: cover;
+}
+.title{
+  font-family: serif;
+  color: gold;
+  
+}
+.head_right{
+  text-align: right;
+  font-family: sans-serif;
+
+}
+.left_paragraph{
+  text-align: left;
+  font-family: sans-serif;
+ 
+}
+.right_paragraph{
+  text-align: right;
+  font-family: "Courier New", Courier, monospace;
+  
+}
+pre{
+  font-family: monospace;
+  font-size: 18px;
+  font-weight: bold;
+}
+.propeerty{
+  color:blue;
+
+}
+.green{
+  color:green;
+}
+.border-solid, .border-dashed{
+  padding: 10px 15px;
+  margin-bottom: 20px;
+}
+.border-solid{
+  border: 1px solid black;
+}
+.border-dashed{
+  border:1.5px dashed black
+}
+.dotted-text{
+  border: 1.5px dotted red;
+  padding: 5px;
+}
+.purple-box{
+  color:purple
+}
+.bg-orange{
+  background-color: #f3a333;
+  color: inherit;
+  
+}
+.bg-yellow{
+  background-color: #ffff00;
+  color: inherit;
+
+}
+.table-head{
+  font-size: 24px;
+  margin-bottom: 20px;
+
+}
+table{
+  border-spacing: 10px;
+
+}
+td{
+  border:1px solid black;
+  border-radius: 8px;
+  padding: 10px 15px;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
+  font-size: 18px;
+}
